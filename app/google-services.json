@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83654434851",
+    "project_id": "newsified-56481",
+    "storage_bucket": "newsified-56481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83654434851:android:5068a931a6b4a1ee235196",
+        "android_client_info": {
+          "package_name": "com.maverick.newsify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83654434851-c56gd7qpd1r6hqjdi84fpbs8d6modf88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8uxMnzOcqYMmPwSizzcaq8HOLMZ8YUPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83654434851-c56gd7qpd1r6hqjdi84fpbs8d6modf88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
